@@ -1,3 +1,7 @@
+Falls HandOfBlood oder sein Team möchten das diese Mod entfernt wird, bitte einfach melden. Ich werde sie dann entfernen.
+Discord: x_man1109
+GitHub: https://github.com/Xman1109
+
 
 The MIT License (MIT)
 
