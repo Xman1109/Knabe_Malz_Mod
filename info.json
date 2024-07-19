@@ -1,0 +1,10 @@
+{
+  "name": "Knabe_Malz_Mod",
+  "version": "1.0.0",
+  "title": "Knabe Malz - Malztrunk",
+  "description": "Fügt HandOfBloods patentiertes Malzbier in Factorio hinzu, welches dank seiner Rezeptur alle Wunden heilt!",
+  "author": "X_Man1109",
+  "contact": "X_Man1109#6160",
+  "factorio_version": "1.1",
+  "dependencies": ["base"]
+}
