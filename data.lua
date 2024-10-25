@@ -7,6 +7,7 @@ data:extend({
         icon_mipmaps = 4,
         stack_size = 50,
         subgroup = "raw-resource",
+        ammo_category = "capsule",
         capsule_action = {
             stack_size = 50,
             order = "h[knabe-malz]",
